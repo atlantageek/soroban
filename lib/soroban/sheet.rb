@@ -4,6 +4,7 @@ require 'soroban/label_walker'
 require 'soroban/value_walker'
 require 'soroban/tabulator'
 require 'soroban/cell'
+require 'set'
 
 module Soroban
 
